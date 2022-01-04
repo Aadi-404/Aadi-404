@@ -2,8 +2,8 @@
 -   I’m @Aadi-404
 -   Aditya Rana
 -   Student of Electrical Engineering ,BIT Sindri
--   👀 I’m interested in Competitve Programming
--   🌱 I’m currently learning Web development
+-   👀 Interested in Competitve Programming
+-   🌱 Currently learning Web development
 - 
 - 📫 Contact me https://www.linkedin.com/in/aditya-rana-1017771b2/
 
