@@ -25,7 +25,7 @@
 
 
 ### 🔗 Connect with me
-- 🌐 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aditya-rana-1017771b2/)
+
 - 🍜 **CodeChef:** [its_aadi](https://www.codechef.com/users/its_aadi)
 - 🟧 **LeetCode:** [its_aadi](https://leetcode.com/u/its_aadi/) 
 
@@ -66,14 +66,6 @@
 
 ---
 
-### 📫 Connect With Me
-<p>
-  <atps://www.linkedin.com/in/aditya-rana-1017771b2/
-    <img src="g.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin
-  </a>
-</p>
-
----
 
 ### 🚀 Quote I Follow
 > _"First, solve the problem. Then, write the code."_
