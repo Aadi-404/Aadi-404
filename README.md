@@ -3,7 +3,7 @@
 -   Aditya Rana
 -   Student of Electrical Engineering ,BIT Sindri
 -   👀 Interested in Competitve Programming
--   🌱 Currently learning Web development
+-   🌱 Currently working in Capgemini as FullStack Developer
 - 
 - 📫 Contact me https://www.linkedin.com/in/aditya-rana-1017771b2/
 
