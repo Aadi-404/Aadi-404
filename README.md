@@ -51,14 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=Aadi-404&show_icons=true&theme=tokyonight
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi-404&layout=compact&theme=tokyonight
-</p>
-
----
-
 ### 🌱 Currently Exploring
 - Cloud‑native Architecture  
 - Microservices & Distributed Systems  
